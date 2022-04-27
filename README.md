@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> <img src="https://media3.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif" width="90"> 
+      Hi!, I'm Jocsan Sernaque
+     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Computer Technician Graduate at <a href="https://www.iestpffaa.edu.pe/">IESTP"FFAA"</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**JocsanSernaque/jocsansernaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const jocsan = {
+    pronouns: "He" | "Him",
+    code: ["Html5","Css3","Javascript", "Php"],
+    askMeAbout: ["web dev"],
+    technologies: {  
+        desing: ["Figma", "Photoshop", "Adobe Illustrator"],
+        frontEnd: {
+            js: ["React js"],
+            css: ["bootstrap", "chakra ui"]
+        },        
+        databases: ["MySql", "Sql Server", "Oracle"]        
+    },   
+};
+```
