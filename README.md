@@ -8,14 +8,14 @@
 
 ```javascript
 const jocsan = {
-    pronouns: "He" | "Him",
+    pronouns: "He" | "thejocsanjs",
     code: ["Html5","Css3","Javascript", "Php"],
     askMeAbout: ["web dev"],
     technologies: {  
         desing: ["Figma", "Photoshop", "Adobe Illustrator"],
         frontEnd: {
             js: ["React js"],
-            css: ["bootstrap", "chakra ui"]
+            css: ["Tailwind","chakra ui","bootstrap",]
         },        
         databases: ["MySql", "Sql Server", "Oracle"]        
     },   
