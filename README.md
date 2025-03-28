@@ -14,7 +14,7 @@ const jocsan = {
     technologies: {  
         desing: ["Figma", "Photoshop", "Adobe Illustrator"],
         frontEnd: {
-            js: ["React js"],
+            js: ["Angular, React js"],
             css: ["Tailwind","chakra ui","bootstrap",]
         },        
         databases: ["MySql", "Sql Server", "Oracle"]        
